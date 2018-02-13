@@ -42,13 +42,6 @@ public class testtt {
 		ar[1]="s";
 		ar[2]="=";
 		assertEquals(1,c1.work(ar,m,v),0);
-		ar[0]="2";
-		ar[1]="%";
-		ar[2]="0";
-		ar[3]="=";
-		assertEquals(1,c1.work(ar,m,v),0);
-
-
 		
 	}
 
